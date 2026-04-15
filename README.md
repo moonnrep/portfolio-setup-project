@@ -26,4 +26,4 @@ This project demonstrates my ability to learn new tools, follow instructions, an
 - Gained experience in documenting processes clearly and effectively  
 
 ## Conclusion
-This project reflects my ability to learn quickly, adapt to new tools, and complete tasks with clear and structured documentation.
+This project reflects my ability to learn quickly, adapt to new tools, and complete tasks with clear and structured documentation. It also shows my ability to take initiative and handle unfamiliar tasks independently.
