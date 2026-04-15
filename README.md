@@ -1,7 +1,7 @@
 # Portfolio Setup Project
 
 ## Introduction
-This project shows how i learned to set up new tools, follow instructions, and complete task independently.
+This project demonstrates my ability to learn new tools, follow instructions, and complete tasks independently.
 
 ## Tools Installed
 - Cursor IDE
@@ -12,17 +12,18 @@ This project shows how i learned to set up new tools, follow instructions, and c
 1. Installed Cursor IDE
 2. Installed required extensions (Claude Code & Codex)
 3. Created a GitHub repository
-4. Connected repository with Cursor IDE
-5. Edited README.md file
+4. Explored Cursor IDE and worked with the repository  
+5. Edited and updated the README.md file  
+6. Committed changes and published them to GitHub
 
 ## Challenges & Solutions
-- Challenge: I was not familiar with connecting GitHub to Cursor
-- Solution: I searched for tutorials and followed step-by-step guides  
+- Challenge: I was not familiar with setting up and connecting tools like Cursor and GitHub
+- Solution: I reviewed examples and adjusted the format to clearly present my process 
 
 ## Key Learnings
-- Learned how to use new tools independently  
-- Improved problem-solving skills  
-- Learned how to document my work clearly  
+- Learned how to adapt quickly to new tools and environments  
+- Improved my ability to find solutions independently  
+- Gained experience in documenting processes clearly and effectively  
 
 ## Conclusion
-This project helped me improve my ability to adapt, learn quickly, and complete tasks with clear documentation.
+This project reflects my ability to learn quickly, adapt to new tools, and complete tasks with clear and structured documentation.
