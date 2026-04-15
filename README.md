@@ -16,8 +16,8 @@ This project shows how i learned to set up new tools, follow instructions, and c
 5. Edited README.md file
 
 ## Challenges & Solutions
-- Challenge: I was not familiar with connecting GitHub to Cursor 
-  Solution: I searched for tutorials and followed step-by-step guides  
+- Challenge: I was not familiar with connecting GitHub to Cursor
+- Solution: I searched for tutorials and followed step-by-step guides  
 
 ## Key Learnings
 - Learned how to use new tools independently  
